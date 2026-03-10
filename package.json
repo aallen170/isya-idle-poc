@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "name": "isya-idle-poc",
+  "version": "1.0.0",
+  "description": "Idle game heavily inspired by Fiesta Online and other similar MMOs. Auto-cast abilities, multi-character management, transparend and easy-to-understand progression.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aallen170/isya-idle-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aallen170/isya-idle-poc/issues"
+  },
+  "homepage": "https://github.com/aallen170/isya-idle-poc#readme"
+}
